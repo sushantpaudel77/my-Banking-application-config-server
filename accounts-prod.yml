@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: Welcome to my-Banking application Prod APIs
+  message: Welcome to my-Banking application Production APIs
   contactDetails:
     name: Bob finch
     email: "{cipher}1c8392ee939ad0b010c0e943ac0d0f34ce2d81f0054e58d6cf6025379df317eb19c68dd1bc4fb969b5d36693d8b7465e"
