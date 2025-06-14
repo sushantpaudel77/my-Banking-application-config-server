@@ -2,10 +2,10 @@ build:
   version: 2.0
 
 cards:
-  message: Welcome to my-Banking application QA APIs
+  message: "Welcome to the My-Banking Application QA APIs — your gateway to seamless card services."
   contactDetails:
-    name: Alice Smith
-    email: alicesmith@example.com
+    name: Michael Reed
+    email: michael.reed@example.com
   onCallSupport:
-    - "(888)555-222"
-    - "(333)666-444"
+    - "(888) 555-2222"
+    - "(333) 666-4444"
