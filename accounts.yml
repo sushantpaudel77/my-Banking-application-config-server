@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 accounts:
-  message: Welcome to my-Banking application Docker
+  message: Welcome to my-Banking application docker
   contactDetails:
     name: John Doe
     email: johndoe@example.com
