@@ -2,10 +2,10 @@ build:
   version: 1.0
 
 loans:
-  message: Welcome to my-Banking application Prod APIs
+  message: "Welcome to the My-Banking Application Production APIs"
   contactDetails:
-    name: David Brooks
-    email: davicbrooks@example.com
+    name: David brooks
+    email: davidbrooks@example.com
   onCallSupport:
-    - "(111) 444-777"
-    - "(333) 777-444"
+    - "(555) 123-4567"
+    - "(555) 987-6543"
