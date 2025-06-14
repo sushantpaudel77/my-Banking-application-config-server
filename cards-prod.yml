@@ -1,11 +1,11 @@
 build:
   version: 1.0
 
-cards:
-  message: Welcome to my-Banking application Prod APIs
+accounts:
+  message: "Welcome to the My-Banking Application Production APIs — your trusted financial partner."
   contactDetails:
-    name: Bob finch
-    email: bobfinch@example.com
+    name: "Emily Clark"
+    email: "support@mybankingapp.com"
   onCallSupport:
-    - "(111)444-777"
-    - "(333)777-444"
+    - "(800) 555-0199"
+    - "(800) 555-0123"
