@@ -4,8 +4,8 @@ build:
 loans:
   message: Welcome to my-Banking application Prod APIs
   contactDetails:
-    name: Bob finch
-    email: bobfinch@example.com
+    name: David Brooks
+    email: davicbrooks@example.com
   onCallSupport:
-    - "(111)444-777"
-    - "(333)777-444"
+    - "(111) 444-777"
+    - "(333) 777-444"
