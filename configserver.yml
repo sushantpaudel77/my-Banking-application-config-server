@@ -1,0 +1,9 @@
+# configserver.yml
+eureka:
+  client:
+    enabled: false
+    registerWithEureka: false
+    fetchRegistry: false
+
+server:
+  port: 8071
