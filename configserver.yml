@@ -1,26 +1,26 @@
-# configserver.yml - specific config for config server
-# eureka:
-#   client:
-#     enabled: true
-#     registerWithEureka: true
-#     fetchRegistry: true
-#     serviceUrl:
-#       defaultZone: http://localhost:8070/eureka/
-#   instance:
-#     prefer-ip-address: true
-#     instanceId: ${spring.application.name}:${server.port}
+configserver.yml - specific config for config server
+eureka:
+  client:
+    enabled: true
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://localhost:8070/eureka/
+  instance:
+    prefer-ip-address: true
+    instanceId: ${spring.application.name}:${server.port}
 
-# server:
-#   port: 8071
+server:
+  port: 8071
 
-# # Config server specific settings
-# spring:
-#   cloud:
-#     config:
-#       server:
-#         health:
-#           repositories:
-#             myrepo:
-#               label: main
-#               name: application
-#               profiles: default
+# Config server specific settings
+spring:
+  cloud:
+    config:
+      server:
+        health:
+          repositories:
+            myrepo:
+              label: main
+              name: application
+              profiles: default
