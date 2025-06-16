@@ -1,4 +1,4 @@
-configserver.yml - specific config for config server
+# configserver.yml - specific config for config server
 eureka:
   client:
     enabled: true
