@@ -4,8 +4,8 @@ build:
 loans:
   message: Welcome to my-Banking application
   contactDetails:
-    name: John Doe
-    email: johndoe@example.com
+    name: Jude Doe
+    email: judedoe@example.com
   onCallSupport:
     - "(777)444-222"
     - "(777)222-444"
